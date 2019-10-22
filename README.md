@@ -1,0 +1,2 @@
+# Space Adventure
+## This is my first attempt at writing in Golang. The goal is to create an interactive program that prints to the console, takes an input from the user, and uses logic to compare it to a JSON file for the output.
